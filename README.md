@@ -146,8 +146,12 @@ This project is currently licensed. [![License: MIT](https://img.shields.io/badg
 
 ## 👨‍💻 Author
 
-**Sanket** — [@Sanket73](https://github.com/Sanket73)
+## 👨‍💻 Author
 
-**LinkedIn:** -  sanket-dongardive-515793315    
+**Sanket Dongardive**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sanket73-181717?style=flat-square&logo=github)](https://github.com/Sanket73)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket%20Dongardive-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanket-dongardive-515793315)   
 
 Built with ❤️ for educators everywhere.

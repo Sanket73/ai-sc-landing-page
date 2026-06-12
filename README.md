@@ -140,7 +140,7 @@ Please keep PRs focused and include a clear description of what changed and why.
 
 ## 📄 License
 
-This project is currently unlicensed. Add a [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) file if you plan to open-source it publicly.
+This project is currently licensed. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 
 ---
 
